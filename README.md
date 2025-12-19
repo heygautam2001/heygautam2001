@@ -60,7 +60,7 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/heygautam2001" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/gautam-kumar-741256214/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://leetcode.com/heygautam2001" target="_blank" rel="noopener noreferrer">
@@ -81,5 +81,16 @@
 
 <br clear="both">
 
-<!-- Static Snake icon (replace animated SVG with a static one for GitHub compatibility) -->
-<img src="https://raw.githubusercontent.com/heygautam2001/heygautam2001/main/snake-static.svg" alt="Snake icon" height="100" />
+
+
+<div align="center">
+
+![🐍](https://img.shields.io/badge/-🐍-green?style=for-the-badge)
+![🟩](https://img.shields.io/badge/-🟩-32CD32?style=for-the-badge)
+![🟩](https://img.shields.io/badge/-🟩-228B22?style=for-the-badge)
+![🟩](https://img.shields.io/badge/-🟩-32CD32?style=for-the-badge)
+![🟩](https://img.shields.io/badge/-🟩-228B22?style=for-the-badge)
+![🔹](https://img.shields.io/badge/-🔹-228B22?style=for-the-badge)
+
+</div>
+
